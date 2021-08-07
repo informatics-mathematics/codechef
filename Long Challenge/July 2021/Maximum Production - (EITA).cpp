@@ -6,7 +6,8 @@ int main() {
 
 	cin >> T;
 
-	for(int i = 1; i <= T; i++){
+	for(int i = 1; i <= T; i++)
+	{
 		cin >> d >> x >> y >> z;
 
 		int a = x*7;
